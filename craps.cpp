@@ -1,4 +1,4 @@
-//Guillermo Molina
+//TheRealPines
 //October 3, 2019
 //Project 3: Craps Game
 /*
@@ -22,8 +22,8 @@
 //  main.cpp
 //  Craps
 //
-//  Created by Guillermo Molina Matus on 10/3/19.
-//  Copyright © 2019 Guillermo Molina Matus. All rights reserved.
+//  Created by TheRealPines on 10/3/19.
+//  Copyright © 2019 TheRealPines. All rights reserved.
 //
 
 #include <iostream>
